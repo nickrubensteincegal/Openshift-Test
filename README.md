@@ -1,2 +1,2 @@
-# Openshift-Test
+# Openshift Node.js container test
 Testing openshift
